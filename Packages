@@ -1,18 +1,4 @@
 
-Package: com.SweetGrief.FirstRelease
-Version: 1.0
-Section: Tweaks
-Maintainer: Sweet Grief <jimmy_orval@hotmail.com>
-Depends: firmware (>10.0), mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/A Test Tweak.deb
-Size: 3826 
-MD5sum: c92d4235cdbdd334224f66ed611fc0e0
-Description: This is a test package.
-Name: Test package
-Author: Sweet Grief <jimmy_orval@hotmail.com>
-Depiction: A Test tweak
-
 Package: com.sweetgrief.wamod1
 Name: ‎WA Short Virus
 Author: Sweet Grief
@@ -25,7 +11,7 @@ Version: 1.0
 Size: 27054
 MD5sum: 95e3b6fd2fd7436e2affb966cf54d075
 Filename: ./debs/WAShortVirus.deb
-Depiction:
+Depiction: https://SweetGrief.github.io/SweetGriefWA/depictions/?p=WAShortVirus
 
 Package: com.sweetgrief.wamod2
 Name: ‎WA Short Virus
@@ -39,3 +25,4 @@ Version: 1.0
 Size: 27060
 MD5sum: 415e10e24beae3ad848d022ab7adc9be
 Filename: ./debs/WAShortVirusSMB.deb
+Depiction: https://SweetGrief.github.io/SweetGriefWA/depictions/?p=WAShortVirusSMB
