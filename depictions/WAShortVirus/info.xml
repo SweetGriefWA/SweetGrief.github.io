@@ -1,0 +1,39 @@
+<package>
+	<id>com.sweetgrief.wamod1</id>
+	<name>WA Short Virus</name>
+	<version>1.0-3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>قص مناشير الفايروس للوتسب العادي من عمك سويت غريف</shortDescription>
+	<descriptionlist>
+		<description>قص مناشير الفايروس للوتسب العادي من عمك سويت غريف</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>قص مناشير الفايروس للوتسب العادي من عمك سويت غريف</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>قص مناشير الفايروس للوتسب العادي من عمك سويت غريف</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<links>
+		<link>
+			<name>YouTube</name>
+			<url>https://www.youtube.com/channel/UC62fYhmshDOxaQCv6NKiEDQ?</url>
+			<iconclass>fa fa-youtube</iconclass>
+		</link>
+	</links>
+</package>
