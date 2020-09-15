@@ -26,3 +26,32 @@ Size: 27054
 MD5sum: 95e3b6fd2fd7436e2affb966cf54d075
 Filename: ./debs/WAShortVirusSMB.deb
 Depiction: https://SweetGrief.github.io/SweetGriefWA/depictions/?p=WAShortVirusSMB
+
+Package: com.sweetgrief.anticontact1
+Name: Anti Contact
+Author: Sweet Grief
+Description: سلملي عالستورم 🙂
+Depends: mobilesubstrate
+Maintainer: Sweet Grief
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 3.0
+Size: 5030
+MD5sum: fdb8d74d1a48995caa56638cfdbf3148
+Dilename: ./debs/WA Anti Contact.deb.deb/
+Depiction: https://SweetGrief.github.io/SweetGriefWA/depictions/?p=WAAntiContact
+
+Package: com.sweetgrief.anticontact2
+Name: Anti Contact SMB
+Author: Sweet Grief
+Description: سلملي عالستورم 🙂
+Depends: mobilesubstrate
+Maintainer: Sweet Grief
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 3.0
+Size: 5044
+MD5sum: ca98d0d472adadf0f25ce9936aeb7514
+Dilename: ./debs/WA Business Anti Contact.deb/
+Depiction: https://SweetGrief.github.io/SweetGriefWA/depictions/?p=WAAntiContactSMB
+

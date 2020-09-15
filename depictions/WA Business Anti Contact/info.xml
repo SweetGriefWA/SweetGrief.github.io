@@ -1,0 +1,39 @@
+<package>
+	<id>com.sweetgrief.anticontact2</id>
+	<name>Anti Contact SMB</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>سلملي عالستورم 🙂</shortDescription>
+	<descriptionlist>
+		<description>سلملي عالستورم 🙂</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>سلملي عالستورم 🙂</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>سلملي عالستورم 🙂</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<links>
+		<link>
+			<name>YouTube</name>
+			<url>https://www.youtube.com/channel/UC62fYhmshDOxaQCv6NKiEDQ?</url>
+			<iconclass>fa fa-youtube</iconclass>
+		</link>
+	</links>
+</package>
