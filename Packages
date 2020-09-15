@@ -35,7 +35,7 @@ Depends: mobilesubstrate
 Maintainer: Sweet Grief
 Architecture: iphoneos-arm
 Section: Tweaks
-Version: 3.0
+Version: 1.0
 Size: 5030
 MD5sum: fdb8d74d1a48995caa56638cfdbf3148
 Dilename: ./debs/WA Anti Contact.deb.deb/
@@ -49,7 +49,7 @@ Depends: mobilesubstrate
 Maintainer: Sweet Grief
 Architecture: iphoneos-arm
 Section: Tweaks
-Version: 3.0
+Version: 1.0
 Size: 5044
 MD5sum: ca98d0d472adadf0f25ce9936aeb7514
 Dilename: ./debs/WA Business Anti Contact.deb/
